@@ -1,0 +1,21 @@
+
+
+#homeContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  min-height: 100vh;
+}
+
+#profile{
+  width: 80vw;
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.profileSection{
+  display: flex;
+  flex-direction: column;
+}

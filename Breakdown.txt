@@ -1,0 +1,26 @@
+Component Hierarchy
+
+- Home
+--- Header
+----- Logo
+----- Company Name
+----- Username
+----- User photo
+--- Login
+--- Register
+- Profile
+--- Change username
+--- Change password
+- Jobs
+--- Upload Resume
+----- Toggle for pdf or text
+--- Upload job
+----- 
+- Footer
+--- Footer stuff
+
+
+
+
+
+
