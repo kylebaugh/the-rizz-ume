@@ -19,3 +19,36 @@
   display: flex;
   flex-direction: column;
 }
+
+#jobPage{
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: aqua;
+}
+
+#resumePage{
+  width: 40vw;
+  background-color: green;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#upload section{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+#rizzPage{
+  width: 40vw;
+  background-color: orange;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+}

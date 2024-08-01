@@ -2,9 +2,12 @@ import React from 'react'
 
 const TheRizz = () => {
   return (
-    <div>
-      The Rizz
-    </div>
+
+      <div id='rizzPage'>
+        <button>Add Job</button>
+
+        <section id='rizzTime'></section>
+      </div>
   )
 }
 

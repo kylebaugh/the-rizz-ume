@@ -8,9 +8,9 @@ const Jobs = () => {
   
 
   return (
-    <div>
+    <div id='jobPage'>
       <Resume />
-      <PostingModal/>
+      {/* <PostingModal/> */}
       <TheRizz/>
     </div>
   )
